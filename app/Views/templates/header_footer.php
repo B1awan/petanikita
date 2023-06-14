@@ -10,6 +10,6 @@
     <link rel="stylesheet" href="<?= base_url('assets/bootstrap/css/bootstrap.min.css') ?>">
 </head>
 <body>
-    <?= $this->renderSection('content'); ?>
+    <? $this->renderSection('content'); ?>
 </body>
 </html>

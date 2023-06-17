@@ -1,12 +1,157 @@
 :root {
+    --utama-putih: #ffffff;
+    --utama-hijau : #006647;
 
+
+    --utama-kuning : #FCD25A;
+    --utama-text-kuning : #f1c54d;
 }
 
-* {
-    font-family: 'Signika', sans-serif;
-}
 
 html, body {
-    margin: 0;
     padding: 0;
+    margin: 0;
+    background-color: var(--utama-putih);
+    font-family: 'Signika', Arial, Helvetica, sans-serif;
+}
+
+.navbar {
+    font-size: 30px;
+    background-color: var(--utama-hijau);
+    border-radius: 0 0 20px 20px;
+}
+
+
+.navbar-brand, .nav-link {
+    color: var(--utama-putih);
+    transition: color 0.2s ease;
+}
+
+.logo-brand {
+    width: 1.5rem;
+}
+.navbar-brand {
+    font-size: 2rem;
+}
+
+.navbar-nav {
+    font-size: 0.8rem;
+}
+
+.nav-link.active-link {
+    text-decoration: underline;
+    text-underline-offset: 8px;
+    color: var(--utama-kuning);
+}
+
+
+.nav-item {
+    margin-right: 15px;
+}
+
+.nav-link {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.nav-link:hover, .nav-link:active, .navbar-brand:hover, .navbar-brand:active {
+    color: var(--utama-kuning);
+}
+
+
+.nav-link>img {
+    width: 2.3rem;
+}
+
+
+.nav-name {
+    margin: 0;
+}
+
+
+
+
+
+
+.btn-masuk {
+    font-size: 1.1rem;
+    padding: 4px 14px;
+    border: 1px solid var(--utama-kuning);
+    border-radius: 9px;
+    background-color: transparent;
+    color: var(--utama-kuning);
+    transition: background-color 0.2s ease;
+}
+
+.btn-masuk:hover {
+    font-size: 1.1rem;
+    padding: 5px 15px;
+    border: none;
+    border-radius: 9px;
+    background-color: var(--utama-kuning);
+    color: var(--utama-hijau);
+}
+
+
+
+
+
+.btn-daftar {
+    font-size: 1.1rem;
+    padding: 5px 15px;
+    border: none;
+    border-radius: 9px;
+    background-color: var(--utama-putih);
+    color: var(--utama-hijau);
+    transition: background-color 0.2s ease;
+}
+
+.btn-daftar:hover {
+    padding: 4px 14px;
+    border: 1px solid var(--utama-putih);
+    border-radius: 9px;
+    background-color: transparent;
+    color: var(--utama-putih);
+}
+
+
+
+
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 768px) {
+    .logo-brand {
+        width: 1.4rem;
+    }
+    .navbar-brand {
+        font-size: 1.9rem;
+    }
+
+    .navbar-nav {
+        font-size: 1rem;
+    }
+
+
+    .nav-item {
+        margin: 0;
+    }
+
+    .nav-link {
+        display: flex;
+        flex-direction: row;
+        justify-content: start;
+        align-items: center;
+    }
+
+    .nav-link>img {
+        width: 1.9rem;
+    }
+
+    .nav-name {
+        margin-top: 0;
+        margin-bottom: 0;
+        margin-right: 0;
+        margin-left: 15px;
+    }
 }

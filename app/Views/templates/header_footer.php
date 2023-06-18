@@ -47,7 +47,7 @@
                         </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link <?= ($title === "Komunitas") ? 'active-link' : '' ?>" href="#">
+                        <a class="nav-link <?= ($title === "Komunitas") ? 'active-link' : '' ?>" href="/komunitas">
                             <img src="<?= base_url('assets/icons/logo-komunitas.png') ?>" alt="">
                             <p class="nav-name">Komunitas</p>
                         </a>

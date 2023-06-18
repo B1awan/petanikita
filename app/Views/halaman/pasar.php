@@ -2,6 +2,6 @@
 
 <?= $this->section('content'); ?>
 
-<h1>ini pasar</h1>
+<h1>Pasar Kita</h1>
 
 <?= $this->endSection(); ?>

@@ -82,92 +82,119 @@
       </form>
       <div class="row row-cols-2 row-cols-md-3 g-4">
         <div class="col">
-          <div class="card">
+          <div class="card h-100">
             <img src="assets/images/beranda_img-1.png" class="card-img-top" alt="...">
             <div class="card-body">
               <h5 class="card-title">Card title</h5>
-              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              <a href="#" class="btn btn-primary">Beli</a>
+              <p class="card-text">bibit itu</p>
+              
+            </div>
+            <div class="card-footer">
+              <a href="#" class="btn btn-primary">Beli</a>  
             </div>
           </div>
         </div>
         <div class="col">
-          <div class="card">
+          <div class="card h-100">
             <img src="assets/images/beranda_img-2.png" class="card-img-top" alt="...">
             <div class="card-body">
               <h5 class="card-title">Card title</h5>
-              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              <a href="#" class="btn btn-primary">Beli</a>
+              <p class="card-text">tomat organik pegunungan</p>
+              
+            </div>
+            <div class="card-footer">
+              <a href="#" class="btn btn-primary">Beli</a>  
             </div>
           </div>
         </div>
         <div class="col">
-          <div class="card">
+          <div class="card h-100">
             <img src="assets/images/beranda_img-3.png" class="card-img-top" alt="...">
             <div class="card-body">
               <h5 class="card-title">Card title</h5>
-              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              <a href="#" class="btn btn-primary">Beli</a>
+              <p class="card-text">cabe, toman, dan mentimun ini menggunakan pupuk organik</p>
+              
+            </div>
+            <div class="card-footer">
+              <a href="#" class="btn btn-primary">Beli</a>  
             </div>
           </div>
         </div>
         <div class="col">
-          <div class="card">
+          <div class="card h-100">
             <img src="assets/images/beranda_img-1.png" class="card-img-top" alt="...">
             <div class="card-body">
               <h5 class="card-title">Card title</h5>
-              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              <a href="#" class="btn btn-primary">Beli</a>
+              <p class="card-text">bibit itu</p>
+              
+            </div>
+            <div class="card-footer">
+              <a href="#" class="btn btn-primary">Beli</a>  
             </div>
           </div>
         </div>
         <div class="col">
-          <div class="card">
+          <div class="card h-100">
             <img src="assets/images/beranda_img-2.png" class="card-img-top" alt="...">
             <div class="card-body">
               <h5 class="card-title">Card title</h5>
-              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              <a href="#" class="btn btn-primary">Beli</a>
+              <p class="card-text">tomat organik pegunungan</p>
+              
+            </div>
+            <div class="card-footer">
+              <a href="#" class="btn btn-primary">Beli</a>  
             </div>
           </div>
         </div>
         <div class="col">
-          <div class="card">
+          <div class="card h-100">
             <img src="assets/images/beranda_img-3.png" class="card-img-top" alt="...">
             <div class="card-body">
               <h5 class="card-title">Card title</h5>
-              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              <a href="#" class="btn btn-primary">Beli</a>
+              <p class="card-text">cabe, toman, dan mentimun ini menggunakan pupuk organik</p>
+              
+            </div>
+            <div class="card-footer">
+              <a href="#" class="btn btn-primary">Beli</a>  
             </div>
           </div>
         </div>
         <div class="col">
-          <div class="card">
+          <div class="card h-100">
             <img src="assets/images/beranda_img-1.png" class="card-img-top" alt="...">
             <div class="card-body">
               <h5 class="card-title">Card title</h5>
-              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              <a href="#" class="btn btn-primary">Beli</a>
+              <p class="card-text">bibit itu</p>
+              
+            </div>
+            <div class="card-footer">
+              <a href="#" class="btn btn-primary">Beli</a>  
             </div>
           </div>
         </div>
         <div class="col">
-          <div class="card">
+          <div class="card h-100">
             <img src="assets/images/beranda_img-2.png" class="card-img-top" alt="...">
             <div class="card-body">
               <h5 class="card-title">Card title</h5>
-              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              <a href="#" class="btn btn-primary">Beli</a>
+              <p class="card-text">tomat organik pegunungan</p>
+              
+            </div>
+            <div class="card-footer">
+              <a href="#" class="btn btn-primary">Beli</a>  
             </div>
           </div>
         </div>
         <div class="col">
-          <div class="card">
+          <div class="card h-100">
             <img src="assets/images/beranda_img-3.png" class="card-img-top" alt="...">
             <div class="card-body">
               <h5 class="card-title">Card title</h5>
-              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              <a href="#" class="btn btn-primary">Beli</a>
+              <p class="card-text">cabe, toman, dan mentimun ini menggunakan pupuk organik</p>
+              
+            </div>
+            <div class="card-footer">
+              <a href="#" class="btn btn-primary">Beli</a>  
             </div>
           </div>
         </div>

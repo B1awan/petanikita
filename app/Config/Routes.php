@@ -30,6 +30,9 @@ $routes->set404Override();
 // We get a performance increase by specifying the default
 // route since we don't have to scan directories.
 $routes->get('/', 'Halaman_con::index');
+$routes->get('/login', 'Halaman_con::loginPage');
+$routes->get('/register', 'Halaman_con::registerPage');
+
 $routes->get('pasar', 'Halaman_con::pasar');
 $routes->get('komunitas', 'Halaman_con::komunitas');
 

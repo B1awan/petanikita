@@ -12,6 +12,16 @@ class Halaman_con extends BaseController
         return view('halaman/beranda',$data);
     }
 
+    public function loginPage()
+    {
+        return view('halaman/login');
+    }
+
+    public function registerPage()
+    {
+        return view('halaman/register');
+    }
+
     public function pasar()
     {
         $data = [

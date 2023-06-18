@@ -11,8 +11,8 @@
 </div>
 
 <div id="beranda-konten" class="container">
-  <h1 class="display-5 fw-bold jumbo-tron-title mt-5 mb-5 text-center">Visi dan Misi</h1>
-  <div class="konten-card d-flex flex-column flex-md-row-reverse justify-content-between align-items-center">
+  <h1 class="display-5 fw-bold jumbo-tron-title mt-5 text-center">Visi dan Misi</h1>
+  <div class="konten-card d-flex flex-column flex-md-row justify-content-between align-items-center">
     <div class="text-content text-center px-5">
       <h1 class="display-5 fw-bold jumbo-tron-title">Kompeten</h1>
       <p>Memaksimalkan kompetensi seorang petani agar dapat menjadi petani yang berwawasan luas dan berkemajuan.</p>
@@ -22,7 +22,7 @@
     </div>
   </div>
 
-  <div class="konten-card d-flex flex-column flex-md-row-reverse justify-content-between align-items-center">
+  <div class="konten-card d-flex flex-column flex-md-row justify-content-between align-items-center">
     <div class="text-content text-center px-5">
       <h1 class="display-5 fw-bold jumbo-tron-title">Terhubung</h1>
       <p>Memperluas dan mempermudah relasi antar petani untuk menjadi komunitas yang saling terhubung.</p>
@@ -32,7 +32,7 @@
     </div>
   </div>
 
-  <div class="konten-card d-flex flex-column flex-md-row-reverse justify-content-between align-items-center">
+  <div class="konten-card d-flex flex-column flex-md-row justify-content-between align-items-center">
     <div class="text-content text-center px-5">
       <h1 class="display-5 fw-bold jumbo-tron-title">Untuk Bangsa</h1>
       <p>Membangun suatu komunitas pertanian yang dapat memenuhi kebutuhan pangan didaerah setempat maupun kebutuhan bangsa/negara.</p>

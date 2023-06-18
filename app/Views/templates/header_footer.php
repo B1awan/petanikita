@@ -40,6 +40,7 @@
           <!-- <li class="nav-item">
                         <a class="nav-link" href="/">Beranda</a>
                     </li> -->
+
           <li class="nav-item">
             <a class="nav-link <?= ($title === "Pasar") ? 'active-link' : '' ?>" href="/pasar">
               <img src="<?= base_url('assets/icons/logo-pasar.png') ?>" alt="">
@@ -47,10 +48,10 @@
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link <?= ($title === "Komunitas") ? 'active-link' : '' ?>" href="#">
-              <img src="<?= base_url('assets/icons/logo-komunitas.png') ?>" alt="">
-              <p class="nav-name">Komunitas</p>
-            </a>
+              <a class="nav-link <?= ($title === "Komunitas") ? 'active-link' : '' ?>" href="/komunitas">
+                  <img src="<?= base_url('assets/icons/logo-komunitas.png') ?>" alt="">
+                  <p class="nav-name">Komunitas</p>
+              </a>
           </li>
         </ul>
         <form class="row g-2 mt-4 mt-md-0 ms-md-2">
@@ -64,7 +65,6 @@
       </div>
     </div>
   </nav>
-
 
 
   <?= $this->renderSection('content'); ?>

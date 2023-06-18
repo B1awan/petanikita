@@ -2,6 +2,7 @@
 
 <?= $this->section('content'); ?>
 
+
 <div class="container mt-4">
   <div class="row row-cols-2 mb-5">
     <div class="col-12 col-md-3">
@@ -173,5 +174,6 @@
       </div>
     </div>
   </div>
+
 
   <?= $this->endSection(); ?>
